@@ -1,0 +1,6 @@
+*.pyc
+src/nova_act.egg-info/dependency_links.txt
+src/nova_act.egg-info/PKG-INFO
+src/nova_act.egg-info/requires.txt
+src/nova_act.egg-info/SOURCES.txt
+src/nova_act.egg-info/top_level.txt
